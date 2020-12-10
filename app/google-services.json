@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605248458175",
+    "project_id": "book-store-facd0",
+    "storage_bucket": "book-store-facd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605248458175:android:347fcd7903727bb0f7e50a",
+        "android_client_info": {
+          "package_name": "com.arpan.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605248458175-lc5fh0uof46qtudr2ddjek3m48dhkrhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arpan.bookstore",
+            "certificate_hash": "9f6c9f14bfadf7cf211edfc78f69959e18c12a21"
+          }
+        },
+        {
+          "client_id": "605248458175-agiorkhm4p2f2jckd0nleb6a7jein6us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZTr5oYMppmkjHNtpmvCVOk3PYgoFA91c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605248458175-agiorkhm4p2f2jckd0nleb6a7jein6us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

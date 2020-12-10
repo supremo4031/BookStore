@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="book_name">Discrete Mathematics and Its Applications</string>
+    <string name="book_description">Kenneth H. Rosen’s Discrete Mathematics and Its Applications is appropriate for Computer Science Engineering students. </string>
+</resources>
